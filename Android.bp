@@ -33,6 +33,11 @@ prebuilt_font {
 }
 
 prebuilt_font {
+    name: "Roboto-Book.ttf",
+    src: "Roboto-Book.ttf",
+}
+
+prebuilt_font {
     name: "Roboto-Italic.ttf",
     src: "Roboto-Italic.ttf",
 }

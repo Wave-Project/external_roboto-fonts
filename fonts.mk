@@ -15,6 +15,7 @@
 PRODUCT_PACKAGES := \
     Roboto-Regular.ttf \
     Roboto-Bold.ttf \
+    Roboto-Book.ttf \
     Roboto-Italic.ttf \
     Roboto-BoldItalic.ttf \
     Roboto-Black.ttf \
